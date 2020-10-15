@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "sje-test-aks1"
+  description: "sje-test-aks1ascaec"
+  annotations:
+    github.com/project-slug: "SuganJoe/sje-test-aks1"
+    backstage.io/techdocs-ref: github:https://github.com/SuganJoe/sje-test-aks1
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "SuganJoe"

@@ -1,0 +1,8 @@
+site_name: "sje-test-aks1"
+site_description: "sje-test-aks1ascaec"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
